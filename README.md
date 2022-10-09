@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou a Marcela, estudante de desenvolvimento de sistemas.
+- 👀 Interessada, primeiramente, em desenvolvimento de  tecnologias Front-End, mas pretendo expandir meus conhecimentos para Back-End no futuro.
+- 🌱 No momento, estou estudando JavaScript e bootcamps concomitantes.
